@@ -1,0 +1,15 @@
+.home{
+  display: block;
+  width: 100%;
+}
+
+
+.form{
+  display: block;
+}
+
+.formLabel, .formField{
+  display: inline-block;
+  margin: 20px;
+}
+
