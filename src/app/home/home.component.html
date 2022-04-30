@@ -1,18 +1,31 @@
 <div class="home">
-  <form [formGroup]="brand">
+  <form [formGroup]="adPlainer">
     <div class="form">
       <div class="formLabel">
-        <h3>Brand Name</h3>
+        <h3>User Name</h3>
       </div>
       <div class="formField">
     <mat-form-field appearance="fill">
-      <mat-label>Choose Brand name</mat-label>
-    <mat-select class="select">
-      <mat-option value="Tesla">Tesla</mat-option>
-      <mat-option value="Google">Google</mat-option>
-      <mat-option value="Apple">Apple</mat-option>
+      <mat-label>Select User</mat-label>
+    <mat-select formControlName="userName" class="select"#userName >
+      <mat-option *ngFor="let usr of usersList" [value]="usr.Id" >{{usr.Name}}</mat-option>
     </mat-select>
     </mat-form-field>
+      </div>
+    </div>
+    <div class="form">
+      <div class="formLabel">
+        <h3>Brand name of advertisement</h3>
+      </div>
+      <div class="formField">
+        <mat-form-field appearance="fill">
+          <mat-label>Select Brand</mat-label>
+          <mat-select formControlName="userName" class="select" [disabled]="!userName.value">
+            <ng-container *ngFor="let ad of adsDisplayed">
+              <mat-option *ngIf="userName.value==ad.User_Id" [value]="ad.Brand">Brand: {{ad.Brand}}, Date: {{ad.Date}}</mat-option>
+            </ng-container>
+          </mat-select>
+        </mat-form-field>
       </div>
     </div>
   </form>
