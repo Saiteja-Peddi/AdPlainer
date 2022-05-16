@@ -1,1 +1,6002 @@
-[{"Location": "columbus", "Brand": "park avenue"}, {"Location": "atlantic city", "Brand": "oneplus"}, {"Location": "cincinnati", "Brand": "hp"}, {"Location": "columbus", "Brand": "h&m"}, {"Location": "tempi", "Brand": "samsung"}, {"Location": "miami", "Brand": "fossil"}, {"Location": "los vegas", "Brand": "tesla"}, {"Location": "newyork", "Brand": "swarovski"}, {"Location": "tempi", "Brand": "zara"}, {"Location": "miami", "Brand": "fossil"}, {"Location": "richmond", "Brand": "adidas"}, {"Location": "frankfort", "Brand": "hp"}, {"Location": "los angeles", "Brand": "hp"}, {"Location": "sanfrancisco", "Brand": "victoria secret"}, {"Location": "newyork", "Brand": "fossil"}, {"Location": "tempi", "Brand": "tommy hilfiger"}, {"Location": "tempi", "Brand": "park avenue"}, {"Location": "los vegas", "Brand": "zara"}, {"Location": "los angeles", "Brand": "tesla"}, {"Location": "sanfrancisco", "Brand": "hp"}, {"Location": "los angeles", "Brand": "h&m"}, {"Location": "sanfrancisco", "Brand": "victoria secret"}, {"Location": "detroit", "Brand": "adidas"}, {"Location": "baltimore", "Brand": "hp"}, {"Location": "cincinnati", "Brand": "lenovo"}, {"Location": "newyork", "Brand": "h&m"}, {"Location": "frankfort", "Brand": "swarovski"}, {"Location": "richmond", "Brand": "h&m"}, {"Location": "los angeles", "Brand": "adidas"}, {"Location": "baltimore", "Brand": "fossil"}, {"Location": "baltimore", "Brand": "puma"}, {"Location": "richmond", "Brand": "shein"}, {"Location": "detroit", "Brand": "tommy hilfiger"}, {"Location": "atlantic city", "Brand": "nike"}, {"Location": "atlantic city", "Brand": "google pixel"}, {"Location": "columbus", "Brand": "jo malone"}, {"Location": "frankfort", "Brand": "park avenue"}, {"Location": "columbus", "Brand": "under armour"}, {"Location": "frankfort", "Brand": "swarovski"}, {"Location": "los angeles", "Brand": "samsung"}, {"Location": "miami", "Brand": "fossil"}, {"Location": "washington DC", "Brand": "swarovski"}, {"Location": "miami", "Brand": "hp"}, {"Location": "richmond", "Brand": "victoria secret"}, {"Location": "sanfrancisco", "Brand": "park avenue"}, {"Location": "los vegas", "Brand": "google pixel"}, {"Location": "baltimore", "Brand": "tesla"}, {"Location": "washington DC", "Brand": "apple"}, {"Location": "miami", "Brand": "h&m"}, {"Location": "los angeles", "Brand": "fossil"}, {"Location": "miami", "Brand": "tesla"}, {"Location": "atlantic city", "Brand": "rolex"}, {"Location": "baltimore", "Brand": "adidas"}, {"Location": "baltimore", "Brand": "park avenue"}, {"Location": "baltimore", "Brand": "google pixel"}, {"Location": "cincinnati", "Brand": "under armour"}, {"Location": "miami", "Brand": "park avenue"}, {"Location": "frankfort", "Brand": "hp"}, {"Location": "los angeles", "Brand": "adidas"}, {"Location": "tempi", "Brand": "fossil"}, {"Location": "miami", "Brand": "oneplus"}, {"Location": "washington DC", "Brand": "park avenue"}, {"Location": "miami", "Brand": "swarovski"}, {"Location": "richmond", "Brand": "ferrari"}, {"Location": "newyork", "Brand": "google pixel"}, {"Location": "los vegas", "Brand": "fossil"}, {"Location": "washington DC", "Brand": "apple"}, {"Location": "tempi", "Brand": "nike"}, {"Location": "atlantic city", "Brand": "park avenue"}, {"Location": "baltimore", "Brand": "puma"}, {"Location": "columbus", "Brand": "samsung"}, {"Location": "frankfort", "Brand": "tesla"}, {"Location": "richmond", "Brand": "swarovski"}, {"Location": "tempi", "Brand": "adidas"}, {"Location": "miami", "Brand": "tesla"}, {"Location": "los angeles", "Brand": "tommy hilfiger"}, {"Location": "washington DC", "Brand": "amazon"}, {"Location": "washington DC", "Brand": "tesla"}, {"Location": "sanfrancisco", "Brand": "puma"}, {"Location": "los vegas", "Brand": "hp"}, {"Location": "newyork", "Brand": "zara"}, {"Location": "washington DC", "Brand": "park avenue"}, {"Location": "los angeles", "Brand": "adidas"}, {"Location": "richmond", "Brand": "jo malone"}, {"Location": "tempi", "Brand": "swarovski"}, {"Location": "frankfort", "Brand": "rolex"}, {"Location": "atlantic city", "Brand": "lenovo"}, {"Location": "sanfrancisco", "Brand": "google pixel"}, {"Location": "cincinnati", "Brand": "adidas"}, {"Location": "tempi", "Brand": "nike"}, {"Location": "sanfrancisco", "Brand": "rolex"}, {"Location": "washington DC", "Brand": "under armour"}, {"Location": "los angeles", "Brand": "puma"}, {"Location": "cincinnati", "Brand": "google pixel"}, {"Location": "miami", "Brand": "amazon"}, {"Location": "frankfort", "Brand": "tesla"}, {"Location": "washington DC", "Brand": "adidas"}, {"Location": "newyork", "Brand": "jo malone"}, {"Location": "richmond", "Brand": "shein"}, {"Location": "frankfort", "Brand": "tesla"}, {"Location": "tempi", "Brand": "rolex"}, {"Location": "baltimore", "Brand": "oneplus"}, {"Location": "detroit", "Brand": "google pixel"}, {"Location": "tempi", "Brand": "under armour"}, {"Location": "los vegas", "Brand": "shein"}, {"Location": "los angeles", "Brand": "google pixel"}, {"Location": "detroit", "Brand": "zara"}, {"Location": "los vegas", "Brand": "lenovo"}, {"Location": "detroit", "Brand": "puma"}, {"Location": "frankfort", "Brand": "lenovo"}, {"Location": "tempi", "Brand": "google pixel"}, {"Location": "tempi", "Brand": "nike"}, {"Location": "detroit", "Brand": "rolex"}, {"Location": "sanfrancisco", "Brand": "under armour"}, {"Location": "detroit", "Brand": "h&m"}, {"Location": "newyork", "Brand": "tommy hilfiger"}, {"Location": "cincinnati", "Brand": "rolex"}, {"Location": "frankfort", "Brand": "zara"}, {"Location": "atlantic city", "Brand": "jo malone"}, {"Location": "columbus", "Brand": "jo malone"}, {"Location": "frankfort", "Brand": "under armour"}, {"Location": "baltimore", "Brand": "adidas"}, {"Location": "atlantic city", "Brand": "maybelle"}, {"Location": "baltimore", "Brand": "samsung"}, {"Location": "cincinnati", "Brand": "puma"}, {"Location": "baltimore", "Brand": "under armour"}, {"Location": "atlantic city", "Brand": "under armour"}, {"Location": "los angeles", "Brand": "adidas"}, {"Location": "los vegas", "Brand": "park avenue"}, {"Location": "tempi", "Brand": "hp"}, {"Location": "miami", "Brand": "amazon"}, {"Location": "los vegas", "Brand": "nike"}, {"Location": "frankfort", "Brand": "tesla"}, {"Location": "seattle", "Brand": "h&m"}, {"Location": "seattle", "Brand": "under armour"}, {"Location": "tempi", "Brand": "under armour"}, {"Location": "cincinnati", "Brand": "hp"}, {"Location": "baltimore", "Brand": "tommy hilfiger"}, {"Location": "detroit", "Brand": "nike"}, {"Location": "detroit", "Brand": "tommy hilfiger"}, {"Location": "columbus", "Brand": "apple"}, {"Location": "columbus", "Brand": "h&m"}, {"Location": "los angeles", "Brand": "apple"}, {"Location": "miami", "Brand": "maybelle"}, {"Location": "richmond", "Brand": "jo malone"}, {"Location": "tempi", "Brand": "apple"}, {"Location": "richmond", "Brand": "maybelle"}, {"Location": "baltimore", "Brand": "under armour"}, {"Location": "los vegas", "Brand": "puma"}, {"Location": "newyork", "Brand": "tommy hilfiger"}, {"Location": "baltimore", "Brand": "maybelle"}, {"Location": "los vegas", "Brand": "amazon"}, {"Location": "los vegas", "Brand": "fossil"}, {"Location": "richmond", "Brand": "park avenue"}, {"Location": "miami", "Brand": "victoria secret"}, {"Location": "seattle", "Brand": "jo malone"}, {"Location": "miami", "Brand": "google pixel"}, {"Location": "newyork", "Brand": "samsung"}, {"Location": "atlantic city", "Brand": "samsung"}, {"Location": "columbus", "Brand": "fossil"}, {"Location": "columbus", "Brand": "tommy hilfiger"}, {"Location": "sanfrancisco", "Brand": "fossil"}, {"Location": "cincinnati", "Brand": "google pixel"}, {"Location": "columbus", "Brand": "under armour"}, {"Location": "columbus", "Brand": "adidas"}, {"Location": "richmond", "Brand": "under armour"}, {"Location": "newyork", "Brand": "zara"}, {"Location": "atlantic city", "Brand": "park avenue"}, {"Location": "sanfrancisco", "Brand": "under armour"}, {"Location": "richmond", "Brand": "oneplus"}, {"Location": "washington DC", "Brand": "zara"}, {"Location": "detroit", "Brand": "jo malone"}, {"Location": "miami", "Brand": "jo malone"}, {"Location": "miami", "Brand": "puma"}, {"Location": "tempi", "Brand": "maybelle"}, {"Location": "seattle", "Brand": "amazon"}, {"Location": "seattle", "Brand": "under armour"}, {"Location": "washington DC", "Brand": "tesla"}, {"Location": "seattle", "Brand": "zara"}, {"Location": "atlantic city", "Brand": "samsung"}, {"Location": "newyork", "Brand": "jo malone"}, {"Location": "seattle", "Brand": "adidas"}, {"Location": "newyork", "Brand": "tommy hilfiger"}, {"Location": "detroit", "Brand": "hp"}, {"Location": "sanfrancisco", "Brand": "park avenue"}, {"Location": "miami", "Brand": "puma"}, {"Location": "tempi", "Brand": "apple"}, {"Location": "frankfort", "Brand": "netflix"}, {"Location": "richmond", "Brand": "rolex"}, {"Location": "newyork", "Brand": "shein"}, {"Location": "newyork", "Brand": "hp"}, {"Location": "los vegas", "Brand": "google pixel"}, {"Location": "frankfort", "Brand": "zara"}, {"Location": "richmond", "Brand": "shein"}, {"Location": "los vegas", "Brand": "lenovo"}, {"Location": "baltimore", "Brand": "apple"}, {"Location": "columbus", "Brand": "victoria secret"}, {"Location": "richmond", "Brand": "zara"}, {"Location": "seattle", "Brand": "puma"}, {"Location": "cincinnati", "Brand": "rolex"}, {"Location": "miami", "Brand": "victoria secret"}, {"Location": "richmond", "Brand": "oneplus"}, {"Location": "seattle", "Brand": "victoria secret"}, {"Location": "cincinnati", "Brand": "swarovski"}, {"Location": "columbus", "Brand": "oneplus"}, {"Location": "sanfrancisco", "Brand": "tommy hilfiger"}, {"Location": "los angeles", "Brand": "adidas"}, {"Location": "tempi", "Brand": "samsung"}, {"Location": "los vegas", "Brand": "oneplus"}, {"Location": "newyork", "Brand": "tesla"}, {"Location": "washington DC", "Brand": "park avenue"}, {"Location": "columbus", "Brand": "oneplus"}, {"Location": "detroit", "Brand": "amazon"}, {"Location": "los angeles", "Brand": "ferrari"}, {"Location": "newyork", "Brand": "puma"}, {"Location": "miami", "Brand": "rolex"}, {"Location": "detroit", "Brand": "hp"}, {"Location": "frankfort", "Brand": "lenovo"}, {"Location": "seattle", "Brand": "shein"}, {"Location": "seattle", "Brand": "zara"}, {"Location": "los vegas", "Brand": "park avenue"}, {"Location": "atlantic city", "Brand": "tesla"}, {"Location": "los angeles", "Brand": "puma"}, {"Location": "atlantic city", "Brand": "h&m"}, {"Location": "richmond", "Brand": "oneplus"}, {"Location": "washington DC", "Brand": "under armour"}, {"Location": "tempi", "Brand": "oneplus"}, {"Location": "los angeles", "Brand": "nike"}, {"Location": "tempi", "Brand": "under armour"}, {"Location": "atlantic city", "Brand": "tesla"}, {"Location": "seattle", "Brand": "samsung"}, {"Location": "detroit", "Brand": "nike"}, {"Location": "columbus", "Brand": "shein"}, {"Location": "columbus", "Brand": "shein"}, {"Location": "sanfrancisco", "Brand": "park avenue"}, {"Location": "sanfrancisco", "Brand": "swarovski"}, {"Location": "detroit", "Brand": "park avenue"}, {"Location": "detroit", "Brand": "hp"}, {"Location": "washington DC", "Brand": "ferrari"}, {"Location": "miami", "Brand": "puma"}, {"Location": "detroit", "Brand": "adidas"}, {"Location": "los angeles", "Brand": "zara"}, {"Location": "newyork", "Brand": "rolex"}, {"Location": "cincinnati", "Brand": "samsung"}, {"Location": "columbus", "Brand": "park avenue"}, {"Location": "tempi", "Brand": "oneplus"}, {"Location": "newyork", "Brand": "hp"}, {"Location": "atlantic city", "Brand": "park avenue"}, {"Location": "newyork", "Brand": "victoria secret"}, {"Location": "cincinnati", "Brand": "puma"}, {"Location": "los angeles", "Brand": "puma"}, {"Location": "cincinnati", "Brand": "h&m"}, {"Location": "columbus", "Brand": "rolex"}, {"Location": "los angeles", "Brand": "adidas"}, {"Location": "detroit", "Brand": "lenovo"}, {"Location": "washington DC", "Brand": "shein"}, {"Location": "miami", "Brand": "lenovo"}, {"Location": "columbus", "Brand": "tommy hilfiger"}, {"Location": "frankfort", "Brand": "ferrari"}, {"Location": "tempi", "Brand": "rolex"}, {"Location": "baltimore", "Brand": "oneplus"}, {"Location": "tempi", "Brand": "puma"}, {"Location": "frankfort", "Brand": "jo malone"}, {"Location": "cincinnati", "Brand": "zara"}, {"Location": "newyork", "Brand": "under armour"}, {"Location": "baltimore", "Brand": "google pixel"}, {"Location": "los angeles", "Brand": "h&m"}, {"Location": "newyork", "Brand": "apple"}, {"Location": "los vegas", "Brand": "nike"}, {"Location": "cincinnati", "Brand": "tommy hilfiger"}, {"Location": "detroit", "Brand": "samsung"}, {"Location": "miami", "Brand": "puma"}, {"Location": "los angeles", "Brand": "rolex"}, {"Location": "los vegas", "Brand": "zara"}, {"Location": "detroit", "Brand": "swarovski"}, {"Location": "cincinnati", "Brand": "netflix"}, {"Location": "tempi", "Brand": "fossil"}, {"Location": "los vegas", "Brand": "tommy hilfiger"}, {"Location": "frankfort", "Brand": "nike"}, {"Location": "washington DC", "Brand": "zara"}, {"Location": "los angeles", "Brand": "tommy hilfiger"}, {"Location": "richmond", "Brand": "under armour"}, {"Location": "atlantic city", "Brand": "rolex"}, {"Location": "richmond", "Brand": "nike"}, {"Location": "sanfrancisco", "Brand": "under armour"}, {"Location": "washington DC", "Brand": "samsung"}, {"Location": "cincinnati", "Brand": "park avenue"}, {"Location": "washington DC", "Brand": "fossil"}, {"Location": "seattle", "Brand": "under armour"}, {"Location": "detroit", "Brand": "under armour"}, {"Location": "cincinnati", "Brand": "shein"}, {"Location": "miami", "Brand": "ferrari"}, {"Location": "atlantic city", "Brand": "oneplus"}, {"Location": "miami", "Brand": "puma"}, {"Location": "richmond", "Brand": "park avenue"}, {"Location": "washington DC", "Brand": "park avenue"}, {"Location": "sanfrancisco", "Brand": "fossil"}, {"Location": "detroit", "Brand": "park avenue"}, {"Location": "sanfrancisco", "Brand": "tesla"}, {"Location": "baltimore", "Brand": "google pixel"}, {"Location": "seattle", "Brand": "lenovo"}, {"Location": "cincinnati", "Brand": "lenovo"}, {"Location": "baltimore", "Brand": "samsung"}, {"Location": "richmond", "Brand": "oneplus"}, {"Location": "tempi", "Brand": "lenovo"}, {"Location": "atlantic city", "Brand": "nike"}, {"Location": "cincinnati", "Brand": "park avenue"}, {"Location": "baltimore", "Brand": "ferrari"}, {"Location": "los angeles", "Brand": "nike"}, {"Location": "detroit", "Brand": "under armour"}, {"Location": "newyork", "Brand": "under armour"}, {"Location": "atlantic city", "Brand": "google pixel"}, {"Location": "richmond", "Brand": "maybelle"}, {"Location": "newyork", "Brand": "lenovo"}, {"Location": "columbus", "Brand": "maybelle"}, {"Location": "atlantic city", "Brand": "hp"}, {"Location": "atlantic city", "Brand": "nike"}, {"Location": "cincinnati", "Brand": "samsung"}, {"Location": "cincinnati", "Brand": "maybelle"}, {"Location": "sanfrancisco", "Brand": "under armour"}, {"Location": "washington DC", "Brand": "victoria secret"}, {"Location": "baltimore", "Brand": "tommy hilfiger"}, {"Location": "richmond", "Brand": "swarovski"}, {"Location": "cincinnati", "Brand": "h&m"}, {"Location": "cincinnati", "Brand": "lenovo"}, {"Location": "los angeles", "Brand": "samsung"}, {"Location": "seattle", "Brand": "h&m"}, {"Location": "tempi", "Brand": "under armour"}, {"Location": "seattle", "Brand": "under armour"}, {"Location": "columbus", "Brand": "maybelle"}, {"Location": "seattle", "Brand": "amazon"}, {"Location": "seattle", "Brand": "netflix"}, {"Location": "los vegas", "Brand": "zara"}, {"Location": "columbus", "Brand": "hp"}, {"Location": "miami", "Brand": "swarovski"}, {"Location": "sanfrancisco", "Brand": "under armour"}, {"Location": "miami", "Brand": "maybelle"}, {"Location": "baltimore", "Brand": "swarovski"}, {"Location": "baltimore", "Brand": "zara"}, {"Location": "los angeles", "Brand": "swarovski"}, {"Location": "los vegas", "Brand": "h&m"}, {"Location": "washington DC", "Brand": "adidas"}, {"Location": "frankfort", "Brand": "under armour"}, {"Location": "baltimore", "Brand": "swarovski"}, {"Location": "detroit", "Brand": "adidas"}, {"Location": "los angeles", "Brand": "rolex"}, {"Location": "cincinnati", "Brand": "shein"}, {"Location": "newyork", "Brand": "swarovski"}, {"Location": "seattle", "Brand": "park avenue"}, {"Location": "frankfort", "Brand": "ferrari"}, {"Location": "newyork", "Brand": "victoria secret"}, {"Location": "sanfrancisco", "Brand": "amazon"}, {"Location": "baltimore", "Brand": "google pixel"}, {"Location": "atlantic city", "Brand": "google pixel"}, {"Location": "atlantic city", "Brand": "samsung"}, {"Location": "los angeles", "Brand": "tesla"}, {"Location": "atlantic city", "Brand": "victoria secret"}, {"Location": "tempi", "Brand": "adidas"}, {"Location": "los vegas", "Brand": "lenovo"}, {"Location": "baltimore", "Brand": "nike"}, {"Location": "richmond", "Brand": "amazon"}, {"Location": "columbus", "Brand": "swarovski"}, {"Location": "cincinnati", "Brand": "tesla"}, {"Location": "baltimore", "Brand": "nike"}, {"Location": "cincinnati", "Brand": "hp"}, {"Location": "richmond", "Brand": "maybelle"}, {"Location": "atlantic city", "Brand": "netflix"}, {"Location": "miami", "Brand": "lenovo"}, {"Location": "sanfrancisco", "Brand": "adidas"}, {"Location": "atlantic city", "Brand": "zara"}, {"Location": "miami", "Brand": "ferrari"}, {"Location": "tempi", "Brand": "under armour"}, {"Location": "seattle", "Brand": "lenovo"}, {"Location": "atlantic city", "Brand": "amazon"}, {"Location": "atlantic city", "Brand": "tesla"}, {"Location": "baltimore", "Brand": "swarovski"}, {"Location": "columbus", "Brand": "samsung"}, {"Location": "atlantic city", "Brand": "shein"}, {"Location": "cincinnati", "Brand": "tesla"}, {"Location": "tempi", "Brand": "hp"}, {"Location": "miami", "Brand": "samsung"}, {"Location": "tempi", "Brand": "park avenue"}, {"Location": "newyork", "Brand": "shein"}, {"Location": "washington DC", "Brand": "google pixel"}, {"Location": "miami", "Brand": "victoria secret"}, {"Location": "cincinnati", "Brand": "adidas"}, {"Location": "richmond", "Brand": "jo malone"}, {"Location": "detroit", "Brand": "adidas"}, {"Location": "detroit", "Brand": "tesla"}, {"Location": "detroit", "Brand": "apple"}, {"Location": "columbus", "Brand": "zara"}, {"Location": "miami", "Brand": "zara"}, {"Location": "sanfrancisco", "Brand": "samsung"}, {"Location": "richmond", "Brand": "hp"}, {"Location": "tempi", "Brand": "ferrari"}, {"Location": "miami", "Brand": "samsung"}, {"Location": "columbus", "Brand": "jo malone"}, {"Location": "detroit", "Brand": "swarovski"}, {"Location": "baltimore", "Brand": "park avenue"}, {"Location": "sanfrancisco", "Brand": "google pixel"}, {"Location": "sanfrancisco", "Brand": "victoria secret"}, {"Location": "atlantic city", "Brand": "park avenue"}, {"Location": "seattle", "Brand": "victoria secret"}, {"Location": "newyork", "Brand": "park avenue"}, {"Location": "seattle", "Brand": "shein"}, {"Location": "richmond", "Brand": "samsung"}, {"Location": "los angeles", "Brand": "nike"}, {"Location": "los vegas", "Brand": "ferrari"}, {"Location": "frankfort", "Brand": "nike"}, {"Location": "newyork", "Brand": "nike"}, {"Location": "newyork", "Brand": "h&m"}, {"Location": "washington DC", "Brand": "tesla"}, {"Location": "washington DC", "Brand": "jo malone"}, {"Location": "washington DC", "Brand": "lenovo"}, {"Location": "washington DC", "Brand": "ferrari"}, {"Location": "richmond", "Brand": "swarovski"}, {"Location": "cincinnati", "Brand": "puma"}, {"Location": "richmond", "Brand": "apple"}, {"Location": "seattle", "Brand": "amazon"}, {"Location": "washington DC", "Brand": "maybelle"}, {"Location": "tempi", "Brand": "under armour"}, {"Location": "baltimore", "Brand": "amazon"}, {"Location": "washington DC", "Brand": "ferrari"}, {"Location": "atlantic city", "Brand": "swarovski"}, {"Location": "detroit", "Brand": "samsung"}, {"Location": "los vegas", "Brand": "maybelle"}, {"Location": "baltimore", "Brand": "jo malone"}, {"Location": "baltimore", "Brand": "ferrari"}, {"Location": "richmond", "Brand": "fossil"}, {"Location": "detroit", "Brand": "oneplus"}, {"Location": "seattle", "Brand": "hp"}, {"Location": "frankfort", "Brand": "tesla"}, {"Location": "washington DC", "Brand": "netflix"}, {"Location": "los angeles", "Brand": "jo malone"}, {"Location": "newyork", "Brand": "shein"}, {"Location": "miami", "Brand": "adidas"}, {"Location": "newyork", "Brand": "h&m"}, {"Location": "sanfrancisco", "Brand": "shein"}, {"Location": "detroit", "Brand": "h&m"}, {"Location": "atlantic city", "Brand": "nike"}, {"Location": "los vegas", "Brand": "puma"}, {"Location": "los angeles", "Brand": "zara"}, {"Location": "atlantic city", "Brand": "under armour"}, {"Location": "frankfort", "Brand": "tommy hilfiger"}, {"Location": "baltimore", "Brand": "rolex"}, {"Location": "richmond", "Brand": "fossil"}, {"Location": "miami", "Brand": "park avenue"}, {"Location": "columbus", "Brand": "ferrari"}, {"Location": "seattle", "Brand": "ferrari"}, {"Location": "atlantic city", "Brand": "victoria secret"}, {"Location": "miami", "Brand": "netflix"}, {"Location": "baltimore", "Brand": "amazon"}, {"Location": "los angeles", "Brand": "tommy hilfiger"}, {"Location": "detroit", "Brand": "tommy hilfiger"}, {"Location": "cincinnati", "Brand": "nike"}, {"Location": "washington DC", "Brand": "samsung"}, {"Location": "washington DC", "Brand": "adidas"}, {"Location": "columbus", "Brand": "swarovski"}, {"Location": "miami", "Brand": "puma"}, {"Location": "los angeles", "Brand": "oneplus"}, {"Location": "los angeles", "Brand": "nike"}, {"Location": "tempi", "Brand": "fossil"}, {"Location": "los vegas", "Brand": "adidas"}, {"Location": "richmond", "Brand": "h&m"}, {"Location": "atlantic city", "Brand": "maybelle"}, {"Location": "tempi", "Brand": "h&m"}, {"Location": "richmond", "Brand": "ferrari"}, {"Location": "richmond", "Brand": "oneplus"}, {"Location": "newyork", "Brand": "samsung"}, {"Location": "baltimore", "Brand": "park avenue"}, {"Location": "newyork", "Brand": "h&m"}, {"Location": "columbus", "Brand": "zara"}, {"Location": "sanfrancisco", "Brand": "shein"}, {"Location": "richmond", "Brand": "puma"}, {"Location": "frankfort", "Brand": "jo malone"}, {"Location": "newyork", "Brand": "apple"}, {"Location": "seattle", "Brand": "google pixel"}, {"Location": "richmond", "Brand": "zara"}, {"Location": "tempi", "Brand": "hp"}, {"Location": "detroit", "Brand": "lenovo"}, {"Location": "washington DC", "Brand": "puma"}, {"Location": "richmond", "Brand": "adidas"}, {"Location": "miami", "Brand": "rolex"}, {"Location": "newyork", "Brand": "h&m"}, {"Location": "newyork", "Brand": "ferrari"}, {"Location": "seattle", "Brand": "jo malone"}, {"Location": "newyork", "Brand": "zara"}, {"Location": "washington DC", "Brand": "maybelle"}, {"Location": "detroit", "Brand": "netflix"}, {"Location": "detroit", "Brand": "netflix"}, {"Location": "cincinnati", "Brand": "victoria secret"}, {"Location": "atlantic city", "Brand": "rolex"}, {"Location": "miami", "Brand": "apple"}, {"Location": "baltimore", "Brand": "adidas"}, {"Location": "richmond", "Brand": "netflix"}, {"Location": "frankfort", "Brand": "tesla"}, {"Location": "newyork", "Brand": "h&m"}, {"Location": "sanfrancisco", "Brand": "netflix"}, {"Location": "detroit", "Brand": "oneplus"}, {"Location": "los angeles", "Brand": "victoria secret"}, {"Location": "los vegas", "Brand": "park avenue"}, {"Location": "tempi", "Brand": "tommy hilfiger"}, {"Location": "los vegas", "Brand": "ferrari"}, {"Location": "columbus", "Brand": "amazon"}, {"Location": "miami", "Brand": "park avenue"}, {"Location": "newyork", "Brand": "zara"}, {"Location": "frankfort", "Brand": "google pixel"}, {"Location": "washington DC", "Brand": "zara"}, {"Location": "miami", "Brand": "rolex"}, {"Location": "miami", "Brand": "zara"}, {"Location": "columbus", "Brand": "ferrari"}, {"Location": "cincinnati", "Brand": "apple"}, {"Location": "miami", "Brand": "ferrari"}, {"Location": "tempi", "Brand": "hp"}, {"Location": "los vegas", "Brand": "puma"}, {"Location": "newyork", "Brand": "amazon"}, {"Location": "baltimore", "Brand": "google pixel"}, {"Location": "frankfort", "Brand": "amazon"}, {"Location": "detroit", "Brand": "fossil"}, {"Location": "los angeles", "Brand": "tesla"}, {"Location": "cincinnati", "Brand": "nike"}, {"Location": "tempi", "Brand": "shein"}, {"Location": "richmond", "Brand": "tesla"}, {"Location": "sanfrancisco", "Brand": "zara"}, {"Location": "tempi", "Brand": "google pixel"}, {"Location": "frankfort", "Brand": "amazon"}, {"Location": "seattle", "Brand": "samsung"}, {"Location": "richmond", "Brand": "fossil"}, {"Location": "richmond", "Brand": "samsung"}, {"Location": "detroit", "Brand": "h&m"}, {"Location": "sanfrancisco", "Brand": "tesla"}, {"Location": "columbus", "Brand": "google pixel"}, {"Location": "tempi", "Brand": "zara"}, {"Location": "los angeles", "Brand": "oneplus"}, {"Location": "columbus", "Brand": "ferrari"}, {"Location": "seattle", "Brand": "oneplus"}, {"Location": "frankfort", "Brand": "rolex"}, {"Location": "frankfort", "Brand": "jo malone"}, {"Location": "detroit", "Brand": "h&m"}, {"Location": "columbus", "Brand": "h&m"}, {"Location": "cincinnati", "Brand": "tommy hilfiger"}, {"Location": "newyork", "Brand": "park avenue"}, {"Location": "sanfrancisco", "Brand": "h&m"}, {"Location": "richmond", "Brand": "ferrari"}, {"Location": "baltimore", "Brand": "tesla"}, {"Location": "atlantic city", "Brand": "maybelle"}, {"Location": "seattle", "Brand": "google pixel"}, {"Location": "detroit", "Brand": "h&m"}, {"Location": "los angeles", "Brand": "apple"}, {"Location": "los vegas", "Brand": "ferrari"}, {"Location": "newyork", "Brand": "fossil"}, {"Location": "los angeles", "Brand": "tommy hilfiger"}, {"Location": "tempi", "Brand": "fossil"}, {"Location": "los vegas", "Brand": "park avenue"}, {"Location": "washington DC", "Brand": "apple"}, {"Location": "cincinnati", "Brand": "tesla"}, {"Location": "atlantic city", "Brand": "swarovski"}, {"Location": "detroit", "Brand": "shein"}, {"Location": "frankfort", "Brand": "rolex"}, {"Location": "richmond", "Brand": "shein"}, {"Location": "los vegas", "Brand": "zara"}, {"Location": "richmond", "Brand": "tommy hilfiger"}, {"Location": "sanfrancisco", "Brand": "ferrari"}, {"Location": "richmond", "Brand": "rolex"}, {"Location": "frankfort", "Brand": "park avenue"}, {"Location": "columbus", "Brand": "amazon"}, {"Location": "detroit", "Brand": "ferrari"}, {"Location": "baltimore", "Brand": "samsung"}, {"Location": "washington DC", "Brand": "jo malone"}, {"Location": "miami", "Brand": "lenovo"}, {"Location": "columbus", "Brand": "swarovski"}, {"Location": "richmond", "Brand": "adidas"}, {"Location": "frankfort", "Brand": "netflix"}, {"Location": "los angeles", "Brand": "netflix"}, {"Location": "columbus", "Brand": "google pixel"}, {"Location": "baltimore", "Brand": "under armour"}, {"Location": "tempi", "Brand": "tesla"}, {"Location": "los angeles", "Brand": "adidas"}, {"Location": "cincinnati", "Brand": "amazon"}, {"Location": "frankfort", "Brand": "oneplus"}, {"Location": "washington DC", "Brand": "netflix"}, {"Location": "atlantic city", "Brand": "rolex"}, {"Location": "frankfort", "Brand": "tesla"}, {"Location": "detroit", "Brand": "oneplus"}, {"Location": "cincinnati", "Brand": "swarovski"}, {"Location": "cincinnati", "Brand": "hp"}, {"Location": "newyork", "Brand": "puma"}, {"Location": "richmond", "Brand": "oneplus"}, {"Location": "cincinnati", "Brand": "h&m"}, {"Location": "miami", "Brand": "fossil"}, {"Location": "atlantic city", "Brand": "lenovo"}, {"Location": "atlantic city", "Brand": "netflix"}, {"Location": "washington DC", "Brand": "adidas"}, {"Location": "sanfrancisco", "Brand": "lenovo"}, {"Location": "atlantic city", "Brand": "lenovo"}, {"Location": "seattle", "Brand": "ferrari"}, {"Location": "cincinnati", "Brand": "jo malone"}, {"Location": "tempi", "Brand": "shein"}, {"Location": "detroit", "Brand": "jo malone"}, {"Location": "washington DC", "Brand": "jo malone"}, {"Location": "detroit", "Brand": "apple"}, {"Location": "frankfort", "Brand": "swarovski"}, {"Location": "newyork", "Brand": "netflix"}, {"Location": "washington DC", "Brand": "swarovski"}, {"Location": "atlantic city", "Brand": "apple"}, {"Location": "columbus", "Brand": "h&m"}, {"Location": "baltimore", "Brand": "under armour"}, {"Location": "miami", "Brand": "samsung"}, {"Location": "detroit", "Brand": "tesla"}, {"Location": "newyork", "Brand": "apple"}, {"Location": "newyork", "Brand": "fossil"}, {"Location": "columbus", "Brand": "under armour"}, {"Location": "sanfrancisco", "Brand": "swarovski"}, {"Location": "cincinnati", "Brand": "swarovski"}, {"Location": "columbus", "Brand": "puma"}, {"Location": "miami", "Brand": "shein"}, {"Location": "cincinnati", "Brand": "park avenue"}, {"Location": "seattle", "Brand": "under armour"}, {"Location": "detroit", "Brand": "tommy hilfiger"}, {"Location": "tempi", "Brand": "victoria secret"}, {"Location": "miami", "Brand": "samsung"}, {"Location": "frankfort", "Brand": "zara"}, {"Location": "cincinnati", "Brand": "swarovski"}, {"Location": "seattle", "Brand": "under armour"}, {"Location": "cincinnati", "Brand": "swarovski"}, {"Location": "columbus", "Brand": "zara"}, {"Location": "tempi", "Brand": "google pixel"}, {"Location": "richmond", "Brand": "tommy hilfiger"}, {"Location": "los angeles", "Brand": "oneplus"}, {"Location": "seattle", "Brand": "rolex"}, {"Location": "atlantic city", "Brand": "swarovski"}, {"Location": "atlantic city", "Brand": "puma"}, {"Location": "seattle", "Brand": "jo malone"}, {"Location": "tempi", "Brand": "hp"}, {"Location": "frankfort", "Brand": "oneplus"}, {"Location": "los angeles", "Brand": "lenovo"}, {"Location": "newyork", "Brand": "rolex"}, {"Location": "baltimore", "Brand": "puma"}, {"Location": "detroit", "Brand": "oneplus"}, {"Location": "columbus", "Brand": "oneplus"}, {"Location": "frankfort", "Brand": "shein"}, {"Location": "atlantic city", "Brand": "park avenue"}, {"Location": "los angeles", "Brand": "lenovo"}, {"Location": "atlantic city", "Brand": "swarovski"}, {"Location": "los vegas", "Brand": "apple"}, {"Location": "tempi", "Brand": "hp"}, {"Location": "cincinnati", "Brand": "puma"}, {"Location": "sanfrancisco", "Brand": "h&m"}, {"Location": "washington DC", "Brand": "apple"}, {"Location": "baltimore", "Brand": "maybelle"}, {"Location": "columbus", "Brand": "puma"}, {"Location": "frankfort", "Brand": "park avenue"}, {"Location": "richmond", "Brand": "tesla"}, {"Location": "richmond", "Brand": "google pixel"}, {"Location": "columbus", "Brand": "h&m"}, {"Location": "richmond", "Brand": "jo malone"}, {"Location": "seattle", "Brand": "tommy hilfiger"}, {"Location": "tempi", "Brand": "oneplus"}, {"Location": "atlantic city", "Brand": "under armour"}, {"Location": "washington DC", "Brand": "zara"}, {"Location": "detroit", "Brand": "rolex"}, {"Location": "atlantic city", "Brand": "park avenue"}, {"Location": "seattle", "Brand": "ferrari"}, {"Location": "miami", "Brand": "swarovski"}, {"Location": "columbus", "Brand": "hp"}, {"Location": "richmond", "Brand": "puma"}, {"Location": "baltimore", "Brand": "ferrari"}, {"Location": "washington DC", "Brand": "rolex"}, {"Location": "richmond", "Brand": "puma"}, {"Location": "baltimore", "Brand": "google pixel"}, {"Location": "los vegas", "Brand": "maybelle"}, {"Location": "los vegas", "Brand": "zara"}, {"Location": "frankfort", "Brand": "nike"}, {"Location": "columbus", "Brand": "zara"}, {"Location": "newyork", "Brand": "park avenue"}, {"Location": "baltimore", "Brand": "google pixel"}, {"Location": "frankfort", "Brand": "swarovski"}, {"Location": "richmond", "Brand": "amazon"}, {"Location": "baltimore", "Brand": "swarovski"}, {"Location": "baltimore", "Brand": "adidas"}, {"Location": "miami", "Brand": "fossil"}, {"Location": "los angeles", "Brand": "nike"}, {"Location": "frankfort", "Brand": "netflix"}, {"Location": "washington DC", "Brand": "shein"}, {"Location": "newyork", "Brand": "ferrari"}, {"Location": "baltimore", "Brand": "fossil"}, {"Location": "frankfort", "Brand": "adidas"}, {"Location": "richmond", "Brand": "tesla"}, {"Location": "tempi", "Brand": "puma"}, {"Location": "atlantic city", "Brand": "oneplus"}, {"Location": "detroit", "Brand": "puma"}, {"Location": "los angeles", "Brand": "samsung"}, {"Location": "detroit", "Brand": "zara"}, {"Location": "washington DC", "Brand": "under armour"}, {"Location": "tempi", "Brand": "victoria secret"}, {"Location": "atlantic city", "Brand": "swarovski"}, {"Location": "los angeles", "Brand": "tesla"}, {"Location": "detroit", "Brand": "apple"}, {"Location": "frankfort", "Brand": "samsung"}, {"Location": "los angeles", "Brand": "rolex"}, {"Location": "seattle", "Brand": "apple"}, {"Location": "newyork", "Brand": "shein"}, {"Location": "washington DC", "Brand": "fossil"}, {"Location": "atlantic city", "Brand": "samsung"}, {"Location": "newyork", "Brand": "swarovski"}, {"Location": "richmond", "Brand": "swarovski"}, {"Location": "richmond", "Brand": "nike"}, {"Location": "frankfort", "Brand": "puma"}, {"Location": "detroit", "Brand": "zara"}, {"Location": "washington DC", "Brand": "rolex"}, {"Location": "los angeles", "Brand": "google pixel"}, {"Location": "los angeles", "Brand": "netflix"}, {"Location": "los vegas", "Brand": "google pixel"}, {"Location": "seattle", "Brand": "park avenue"}, {"Location": "los vegas", "Brand": "ferrari"}, {"Location": "richmond", "Brand": "lenovo"}, {"Location": "atlantic city", "Brand": "rolex"}, {"Location": "seattle", "Brand": "adidas"}, {"Location": "columbus", "Brand": "zara"}, {"Location": "newyork", "Brand": "ferrari"}, {"Location": "richmond", "Brand": "lenovo"}, {"Location": "miami", "Brand": "swarovski"}, {"Location": "baltimore", "Brand": "ferrari"}, {"Location": "richmond", "Brand": "swarovski"}, {"Location": "baltimore", "Brand": "maybelle"}, {"Location": "atlantic city", "Brand": "puma"}, {"Location": "seattle", "Brand": "netflix"}, {"Location": "baltimore", "Brand": "under armour"}, {"Location": "washington DC", "Brand": "tommy hilfiger"}, {"Location": "tempi", "Brand": "amazon"}, {"Location": "sanfrancisco", "Brand": "puma"}, {"Location": "columbus", "Brand": "adidas"}, {"Location": "richmond", "Brand": "ferrari"}, {"Location": "richmond", "Brand": "nike"}, {"Location": "los vegas", "Brand": "swarovski"}, {"Location": "miami", "Brand": "hp"}, {"Location": "cincinnati", "Brand": "netflix"}, {"Location": "columbus", "Brand": "shein"}, {"Location": "columbus", "Brand": "zara"}, {"Location": "detroit", "Brand": "rolex"}, {"Location": "los vegas", "Brand": "fossil"}, {"Location": "newyork", "Brand": "zara"}, {"Location": "newyork", "Brand": "tommy hilfiger"}, {"Location": "detroit", "Brand": "fossil"}, {"Location": "sanfrancisco", "Brand": "tommy hilfiger"}, {"Location": "seattle", "Brand": "amazon"}, {"Location": "washington DC", "Brand": "zara"}, {"Location": "miami", "Brand": "google pixel"}, {"Location": "richmond", "Brand": "victoria secret"}, {"Location": "columbus", "Brand": "h&m"}, {"Location": "washington DC", "Brand": "shein"}, {"Location": "seattle", "Brand": "fossil"}, {"Location": "baltimore", "Brand": "adidas"}, {"Location": "frankfort", "Brand": "zara"}, {"Location": "cincinnati", "Brand": "fossil"}, {"Location": "los vegas", "Brand": "shein"}, {"Location": "baltimore", "Brand": "h&m"}, {"Location": "los angeles", "Brand": "hp"}, {"Location": "cincinnati", "Brand": "amazon"}, {"Location": "cincinnati", "Brand": "jo malone"}, {"Location": "seattle", "Brand": "shein"}, {"Location": "atlantic city", "Brand": "h&m"}, {"Location": "columbus", "Brand": "fossil"}, {"Location": "los angeles", "Brand": "adidas"}, {"Location": "miami", "Brand": "under armour"}, {"Location": "columbus", "Brand": "apple"}, {"Location": "columbus", "Brand": "victoria secret"}, {"Location": "columbus", "Brand": "nike"}, {"Location": "tempi", "Brand": "maybelle"}, {"Location": "sanfrancisco", "Brand": "lenovo"}, {"Location": "columbus", "Brand": "jo malone"}, {"Location": "baltimore", "Brand": "tommy hilfiger"}, {"Location": "los angeles", "Brand": "adidas"}, {"Location": "los vegas", "Brand": "lenovo"}, {"Location": "columbus", "Brand": "maybelle"}, {"Location": "seattle", "Brand": "fossil"}, {"Location": "tempi", "Brand": "lenovo"}, {"Location": "los angeles", "Brand": "under armour"}, {"Location": "tempi", "Brand": "under armour"}, {"Location": "tempi", "Brand": "adidas"}, {"Location": "tempi", "Brand": "oneplus"}, {"Location": "tempi", "Brand": "tommy hilfiger"}, {"Location": "seattle", "Brand": "fossil"}, {"Location": "newyork", "Brand": "oneplus"}, {"Location": "miami", "Brand": "rolex"}, {"Location": "miami", "Brand": "zara"}, {"Location": "tempi", "Brand": "jo malone"}, {"Location": "washington DC", "Brand": "adidas"}, {"Location": "detroit", "Brand": "jo malone"}, {"Location": "seattle", "Brand": "fossil"}, {"Location": "los vegas", "Brand": "zara"}, {"Location": "cincinnati", "Brand": "rolex"}, {"Location": "baltimore", "Brand": "samsung"}, {"Location": "los vegas", "Brand": "amazon"}, {"Location": "baltimore", "Brand": "h&m"}, {"Location": "atlantic city", "Brand": "jo malone"}, {"Location": "newyork", "Brand": "rolex"}, {"Location": "tempi", "Brand": "hp"}, {"Location": "baltimore", "Brand": "apple"}, {"Location": "columbus", "Brand": "victoria secret"}, {"Location": "atlantic city", "Brand": "hp"}, {"Location": "sanfrancisco", "Brand": "park avenue"}, {"Location": "baltimore", "Brand": "ferrari"}, {"Location": "detroit", "Brand": "ferrari"}, {"Location": "newyork", "Brand": "amazon"}, {"Location": "miami", "Brand": "google pixel"}, {"Location": "detroit", "Brand": "netflix"}, {"Location": "columbus", "Brand": "park avenue"}, {"Location": "atlantic city", "Brand": "google pixel"}, {"Location": "sanfrancisco", "Brand": "oneplus"}, {"Location": "detroit", "Brand": "ferrari"}, {"Location": "frankfort", "Brand": "netflix"}, {"Location": "los angeles", "Brand": "zara"}, {"Location": "baltimore", "Brand": "under armour"}, {"Location": "baltimore", "Brand": "swarovski"}, {"Location": "los vegas", "Brand": "samsung"}, {"Location": "baltimore", "Brand": "puma"}, {"Location": "atlantic city", "Brand": "google pixel"}, {"Location": "los angeles", "Brand": "ferrari"}, {"Location": "frankfort", "Brand": "oneplus"}, {"Location": "seattle", "Brand": "nike"}, {"Location": "columbus", "Brand": "google pixel"}, {"Location": "columbus", "Brand": "hp"}, {"Location": "richmond", "Brand": "samsung"}, {"Location": "detroit", "Brand": "ferrari"}, {"Location": "cincinnati", "Brand": "tommy hilfiger"}, {"Location": "los angeles", "Brand": "netflix"}, {"Location": "richmond", "Brand": "amazon"}, {"Location": "miami", "Brand": "swarovski"}, {"Location": "detroit", "Brand": "h&m"}, {"Location": "columbus", "Brand": "swarovski"}, {"Location": "tempi", "Brand": "oneplus"}, {"Location": "cincinnati", "Brand": "fossil"}, {"Location": "newyork", "Brand": "nike"}, {"Location": "sanfrancisco", "Brand": "netflix"}, {"Location": "baltimore", "Brand": "maybelle"}, {"Location": "los angeles", "Brand": "ferrari"}, {"Location": "detroit", "Brand": "under armour"}, {"Location": "los angeles", "Brand": "oneplus"}, {"Location": "richmond", "Brand": "rolex"}, {"Location": "richmond", "Brand": "maybelle"}, {"Location": "detroit", "Brand": "netflix"}, {"Location": "detroit", "Brand": "tommy hilfiger"}, {"Location": "baltimore", "Brand": "tesla"}, {"Location": "cincinnati", "Brand": "google pixel"}, {"Location": "atlantic city", "Brand": "zara"}, {"Location": "richmond", "Brand": "shein"}, {"Location": "richmond", "Brand": "zara"}, {"Location": "sanfrancisco", "Brand": "samsung"}, {"Location": "miami", "Brand": "victoria secret"}, {"Location": "columbus", "Brand": "google pixel"}, {"Location": "washington DC", "Brand": "adidas"}, {"Location": "sanfrancisco", "Brand": "samsung"}, {"Location": "washington DC", "Brand": "netflix"}, {"Location": "baltimore", "Brand": "zara"}, {"Location": "washington DC", "Brand": "zara"}, {"Location": "columbus", "Brand": "nike"}, {"Location": "tempi", "Brand": "hp"}, {"Location": "miami", "Brand": "puma"}, {"Location": "baltimore", "Brand": "under armour"}, {"Location": "baltimore", "Brand": "lenovo"}, {"Location": "washington DC", "Brand": "victoria secret"}, {"Location": "richmond", "Brand": "nike"}, {"Location": "los vegas", "Brand": "rolex"}, {"Location": "richmond", "Brand": "swarovski"}, {"Location": "los angeles", "Brand": "netflix"}, {"Location": "washington DC", "Brand": "zara"}, {"Location": "detroit", "Brand": "google pixel"}, {"Location": "washington DC", "Brand": "samsung"}, {"Location": "washington DC", "Brand": "fossil"}, {"Location": "detroit", "Brand": "shein"}, {"Location": "tempi", "Brand": "maybelle"}, {"Location": "richmond", "Brand": "puma"}, {"Location": "washington DC", "Brand": "victoria secret"}, {"Location": "newyork", "Brand": "ferrari"}, {"Location": "seattle", "Brand": "park avenue"}, {"Location": "richmond", "Brand": "hp"}, {"Location": "washington DC", "Brand": "rolex"}, {"Location": "miami", "Brand": "shein"}, {"Location": "detroit", "Brand": "zara"}, {"Location": "washington DC", "Brand": "park avenue"}, {"Location": "seattle", "Brand": "jo malone"}, {"Location": "washington DC", "Brand": "maybelle"}, {"Location": "seattle", "Brand": "swarovski"}, {"Location": "columbus", "Brand": "samsung"}, {"Location": "tempi", "Brand": "under armour"}, {"Location": "frankfort", "Brand": "h&m"}, {"Location": "washington DC", "Brand": "apple"}, {"Location": "sanfrancisco", "Brand": "adidas"}, {"Location": "atlantic city", "Brand": "apple"}, {"Location": "frankfort", "Brand": "rolex"}, {"Location": "newyork", "Brand": "h&m"}, {"Location": "seattle", "Brand": "oneplus"}, {"Location": "columbus", "Brand": "nike"}, {"Location": "washington DC", "Brand": "samsung"}, {"Location": "detroit", "Brand": "ferrari"}, {"Location": "cincinnati", "Brand": "oneplus"}, {"Location": "los angeles", "Brand": "google pixel"}, {"Location": "los angeles", "Brand": "nike"}, {"Location": "los vegas", "Brand": "victoria secret"}, {"Location": "detroit", "Brand": "jo malone"}, {"Location": "los angeles", "Brand": "victoria secret"}, {"Location": "los angeles", "Brand": "ferrari"}, {"Location": "cincinnati", "Brand": "jo malone"}, {"Location": "atlantic city", "Brand": "oneplus"}, {"Location": "richmond", "Brand": "swarovski"}, {"Location": "newyork", "Brand": "jo malone"}, {"Location": "atlantic city", "Brand": "lenovo"}, {"Location": "newyork", "Brand": "lenovo"}, {"Location": "baltimore", "Brand": "nike"}, {"Location": "newyork", "Brand": "apple"}, {"Location": "atlantic city", "Brand": "victoria secret"}, {"Location": "los vegas", "Brand": "h&m"}, {"Location": "atlantic city", "Brand": "google pixel"}, {"Location": "newyork", "Brand": "nike"}, {"Location": "los angeles", "Brand": "h&m"}, {"Location": "cincinnati", "Brand": "google pixel"}, {"Location": "newyork", "Brand": "apple"}, {"Location": "cincinnati", "Brand": "swarovski"}, {"Location": "detroit", "Brand": "jo malone"}, {"Location": "sanfrancisco", "Brand": "maybelle"}, {"Location": "tempi", "Brand": "samsung"}, {"Location": "los angeles", "Brand": "oneplus"}, {"Location": "newyork", "Brand": "zara"}, {"Location": "sanfrancisco", "Brand": "jo malone"}, {"Location": "columbus", "Brand": "jo malone"}, {"Location": "sanfrancisco", "Brand": "oneplus"}, {"Location": "washington DC", "Brand": "tommy hilfiger"}, {"Location": "sanfrancisco", "Brand": "rolex"}, {"Location": "richmond", "Brand": "h&m"}, {"Location": "los angeles", "Brand": "tommy hilfiger"}, {"Location": "atlantic city", "Brand": "fossil"}, {"Location": "washington DC", "Brand": "rolex"}, {"Location": "newyork", "Brand": "zara"}, {"Location": "columbus", "Brand": "puma"}, {"Location": "detroit", "Brand": "victoria secret"}, {"Location": "richmond", "Brand": "victoria secret"}, {"Location": "los vegas", "Brand": "shein"}, {"Location": "sanfrancisco", "Brand": "hp"}, {"Location": "tempi", "Brand": "maybelle"}, {"Location": "miami", "Brand": "puma"}, {"Location": "los vegas", "Brand": "oneplus"}, {"Location": "seattle", "Brand": "tommy hilfiger"}, {"Location": "los angeles", "Brand": "victoria secret"}, {"Location": "washington DC", "Brand": "fossil"}, {"Location": "tempi", "Brand": "nike"}, {"Location": "seattle", "Brand": "fossil"}, {"Location": "detroit", "Brand": "park avenue"}, {"Location": "detroit", "Brand": "tesla"}, {"Location": "baltimore", "Brand": "tesla"}, {"Location": "richmond", "Brand": "maybelle"}, {"Location": "los angeles", "Brand": "google pixel"}, {"Location": "los angeles", "Brand": "tommy hilfiger"}, {"Location": "cincinnati", "Brand": "h&m"}, {"Location": "cincinnati", "Brand": "shein"}, {"Location": "newyork", "Brand": "zara"}, {"Location": "columbus", "Brand": "swarovski"}, {"Location": "washington DC", "Brand": "ferrari"}, {"Location": "washington DC", "Brand": "amazon"}, {"Location": "frankfort", "Brand": "shein"}, {"Location": "baltimore", "Brand": "google pixel"}, {"Location": "los vegas", "Brand": "rolex"}, {"Location": "washington DC", "Brand": "puma"}, {"Location": "richmond", "Brand": "tommy hilfiger"}, {"Location": "miami", "Brand": "under armour"}, {"Location": "los vegas", "Brand": "jo malone"}, {"Location": "atlantic city", "Brand": "jo malone"}, {"Location": "atlantic city", "Brand": "tommy hilfiger"}, {"Location": "cincinnati", "Brand": "under armour"}, {"Location": "cincinnati", "Brand": "victoria secret"}, {"Location": "richmond", "Brand": "maybelle"}, {"Location": "cincinnati", "Brand": "jo malone"}, {"Location": "washington DC", "Brand": "under armour"}, {"Location": "detroit", "Brand": "victoria secret"}, {"Location": "los vegas", "Brand": "lenovo"}, {"Location": "tempi", "Brand": "amazon"}, {"Location": "tempi", "Brand": "google pixel"}, {"Location": "los vegas", "Brand": "park avenue"}, {"Location": "baltimore", "Brand": "tommy hilfiger"}, {"Location": "columbus", "Brand": "hp"}, {"Location": "los angeles", "Brand": "under armour"}, {"Location": "baltimore", "Brand": "rolex"}, {"Location": "baltimore", "Brand": "maybelle"}, {"Location": "newyork", "Brand": "samsung"}, {"Location": "miami", "Brand": "netflix"}, {"Location": "washington DC", "Brand": "victoria secret"}, {"Location": "frankfort", "Brand": "rolex"}, {"Location": "newyork", "Brand": "hp"}, {"Location": "sanfrancisco", "Brand": "under armour"}, {"Location": "sanfrancisco", "Brand": "google pixel"}, {"Location": "atlantic city", "Brand": "h&m"}, {"Location": "detroit", "Brand": "park avenue"}, {"Location": "washington DC", "Brand": "victoria secret"}, {"Location": "seattle", "Brand": "apple"}, {"Location": "cincinnati", "Brand": "swarovski"}, {"Location": "washington DC", "Brand": "ferrari"}, {"Location": "frankfort", "Brand": "tommy hilfiger"}, {"Location": "frankfort", "Brand": "google pixel"}, {"Location": "tempi", "Brand": "apple"}, {"Location": "atlantic city", "Brand": "netflix"}, {"Location": "los vegas", "Brand": "puma"}, {"Location": "miami", "Brand": "lenovo"}, {"Location": "sanfrancisco", "Brand": "park avenue"}, {"Location": "atlantic city", "Brand": "park avenue"}, {"Location": "los vegas", "Brand": "shein"}, {"Location": "cincinnati", "Brand": "under armour"}, {"Location": "tempi", "Brand": "google pixel"}, {"Location": "detroit", "Brand": "maybelle"}, {"Location": "miami", "Brand": "park avenue"}, {"Location": "atlantic city", "Brand": "google pixel"}, {"Location": "tempi", "Brand": "adidas"}, {"Location": "atlantic city", "Brand": "apple"}, {"Location": "tempi", "Brand": "puma"}, {"Location": "detroit", "Brand": "swarovski"}, {"Location": "sanfrancisco", "Brand": "h&m"}, {"Location": "newyork", "Brand": "park avenue"}, {"Location": "sanfrancisco", "Brand": "maybelle"}, {"Location": "cincinnati", "Brand": "shein"}, {"Location": "frankfort", "Brand": "samsung"}, {"Location": "columbus", "Brand": "shein"}, {"Location": "tempi", "Brand": "google pixel"}, {"Location": "sanfrancisco", "Brand": "zara"}, {"Location": "sanfrancisco", "Brand": "netflix"}, {"Location": "frankfort", "Brand": "rolex"}, {"Location": "newyork", "Brand": "park avenue"}, {"Location": "richmond", "Brand": "apple"}, {"Location": "seattle", "Brand": "adidas"}, {"Location": "baltimore", "Brand": "amazon"}, {"Location": "washington DC", "Brand": "h&m"}, {"Location": "newyork", "Brand": "tommy hilfiger"}, {"Location": "columbus", "Brand": "tommy hilfiger"}, {"Location": "seattle", "Brand": "zara"}, {"Location": "detroit", "Brand": "amazon"}, {"Location": "columbus", "Brand": "zara"}, {"Location": "washington DC", "Brand": "jo malone"}, {"Location": "frankfort", "Brand": "h&m"}, {"Location": "seattle", "Brand": "apple"}, {"Location": "los angeles", "Brand": "adidas"}, {"Location": "cincinnati", "Brand": "oneplus"}, {"Location": "cincinnati", "Brand": "victoria secret"}, {"Location": "baltimore", "Brand": "adidas"}, {"Location": "sanfrancisco", "Brand": "samsung"}, {"Location": "tempi", "Brand": "puma"}, {"Location": "los angeles", "Brand": "shein"}, {"Location": "los vegas", "Brand": "rolex"}, {"Location": "los vegas", "Brand": "maybelle"}, {"Location": "richmond", "Brand": "adidas"}, {"Location": "seattle", "Brand": "samsung"}, {"Location": "frankfort", "Brand": "nike"}, {"Location": "baltimore", "Brand": "under armour"}, {"Location": "sanfrancisco", "Brand": "fossil"}, {"Location": "columbus", "Brand": "victoria secret"}, {"Location": "frankfort", "Brand": "nike"}, {"Location": "frankfort", "Brand": "lenovo"}, {"Location": "columbus", "Brand": "rolex"}, {"Location": "newyork", "Brand": "jo malone"}, {"Location": "baltimore", "Brand": "netflix"}, {"Location": "cincinnati", "Brand": "samsung"}, {"Location": "frankfort", "Brand": "samsung"}, {"Location": "cincinnati", "Brand": "tommy hilfiger"}, {"Location": "sanfrancisco", "Brand": "adidas"}, {"Location": "frankfort", "Brand": "jo malone"}, {"Location": "los angeles", "Brand": "h&m"}, {"Location": "washington DC", "Brand": "tesla"}, {"Location": "washington DC", "Brand": "jo malone"}, {"Location": "washington DC", "Brand": "park avenue"}, {"Location": "seattle", "Brand": "shein"}, {"Location": "atlantic city", "Brand": "victoria secret"}, {"Location": "los vegas", "Brand": "netflix"}, {"Location": "baltimore", "Brand": "swarovski"}, {"Location": "detroit", "Brand": "ferrari"}, {"Location": "los vegas", "Brand": "fossil"}, {"Location": "miami", "Brand": "google pixel"}, {"Location": "washington DC", "Brand": "hp"}, {"Location": "richmond", "Brand": "oneplus"}, {"Location": "miami", "Brand": "adidas"}, {"Location": "columbus", "Brand": "google pixel"}, {"Location": "los angeles", "Brand": "h&m"}, {"Location": "atlantic city", "Brand": "victoria secret"}, {"Location": "frankfort", "Brand": "park avenue"}, {"Location": "frankfort", "Brand": "google pixel"}, {"Location": "newyork", "Brand": "apple"}, {"Location": "tempi", "Brand": "park avenue"}, {"Location": "sanfrancisco", "Brand": "victoria secret"}, {"Location": "seattle", "Brand": "adidas"}, {"Location": "seattle", "Brand": "oneplus"}, {"Location": "columbus", "Brand": "shein"}, {"Location": "cincinnati", "Brand": "jo malone"}, {"Location": "richmond", "Brand": "netflix"}, {"Location": "frankfort", "Brand": "swarovski"}, {"Location": "los angeles", "Brand": "adidas"}, {"Location": "newyork", "Brand": "oneplus"}, {"Location": "baltimore", "Brand": "samsung"}, {"Location": "los angeles", "Brand": "park avenue"}, {"Location": "richmond", "Brand": "oneplus"}, {"Location": "washington DC", "Brand": "apple"}, {"Location": "los angeles", "Brand": "adidas"}, {"Location": "washington DC", "Brand": "netflix"}, {"Location": "frankfort", "Brand": "zara"}, {"Location": "columbus", "Brand": "park avenue"}, {"Location": "sanfrancisco", "Brand": "hp"}, {"Location": "sanfrancisco", "Brand": "apple"}, {"Location": "seattle", "Brand": "lenovo"}, {"Location": "cincinnati", "Brand": "hp"}, {"Location": "detroit", "Brand": "swarovski"}, {"Location": "frankfort", "Brand": "amazon"}, {"Location": "atlantic city", "Brand": "oneplus"}, {"Location": "richmond", "Brand": "tommy hilfiger"}, {"Location": "richmond", "Brand": "h&m"}, {"Location": "washington DC", "Brand": "swarovski"}, {"Location": "columbus", "Brand": "tommy hilfiger"}, {"Location": "tempi", "Brand": "google pixel"}, {"Location": "baltimore", "Brand": "google pixel"}, {"Location": "tempi", "Brand": "maybelle"}, {"Location": "los angeles", "Brand": "netflix"}, {"Location": "richmond", "Brand": "samsung"}, {"Location": "los angeles", "Brand": "adidas"}, {"Location": "los angeles", "Brand": "zara"}, {"Location": "richmond", "Brand": "netflix"}, {"Location": "los vegas", "Brand": "tommy hilfiger"}, {"Location": "miami", "Brand": "maybelle"}, {"Location": "newyork", "Brand": "netflix"}, {"Location": "los vegas", "Brand": "maybelle"}, {"Location": "los angeles", "Brand": "tesla"}, {"Location": "atlantic city", "Brand": "park avenue"}, {"Location": "washington DC", "Brand": "amazon"}, {"Location": "newyork", "Brand": "under armour"}, {"Location": "columbus", "Brand": "park avenue"}, {"Location": "miami", "Brand": "shein"}, {"Location": "tempi", "Brand": "tommy hilfiger"}, {"Location": "atlantic city", "Brand": "jo malone"}, {"Location": "washington DC", "Brand": "oneplus"}, {"Location": "atlantic city", "Brand": "under armour"}, {"Location": "tempi", "Brand": "tesla"}, {"Location": "tempi", "Brand": "google pixel"}, {"Location": "seattle", "Brand": "zara"}, {"Location": "newyork", "Brand": "maybelle"}, {"Location": "seattle", "Brand": "zara"}, {"Location": "detroit", "Brand": "park avenue"}, {"Location": "seattle", "Brand": "ferrari"}, {"Location": "richmond", "Brand": "puma"}, {"Location": "newyork", "Brand": "puma"}, {"Location": "columbus", "Brand": "google pixel"}, {"Location": "los angeles", "Brand": "samsung"}, {"Location": "miami", "Brand": "netflix"}, {"Location": "newyork", "Brand": "zara"}, {"Location": "columbus", "Brand": "shein"}, {"Location": "miami", "Brand": "google pixel"}, {"Location": "sanfrancisco", "Brand": "victoria secret"}, {"Location": "washington DC", "Brand": "puma"}, {"Location": "miami", "Brand": "google pixel"}, {"Location": "frankfort", "Brand": "victoria secret"}, {"Location": "seattle", "Brand": "google pixel"}, {"Location": "richmond", "Brand": "zara"}, {"Location": "baltimore", "Brand": "rolex"}, {"Location": "seattle", "Brand": "nike"}, {"Location": "sanfrancisco", "Brand": "puma"}, {"Location": "frankfort", "Brand": "samsung"}, {"Location": "los angeles", "Brand": "swarovski"}, {"Location": "richmond", "Brand": "adidas"}, {"Location": "atlantic city", "Brand": "shein"}, {"Location": "seattle", "Brand": "lenovo"}, {"Location": "washington DC", "Brand": "zara"}, {"Location": "baltimore", "Brand": "hp"}, {"Location": "detroit", "Brand": "maybelle"}, {"Location": "miami", "Brand": "nike"}, {"Location": "los vegas", "Brand": "maybelle"}, {"Location": "atlantic city", "Brand": "tesla"}, {"Location": "columbus", "Brand": "oneplus"}, {"Location": "baltimore", "Brand": "samsung"}, {"Location": "newyork", "Brand": "ferrari"}, {"Location": "richmond", "Brand": "google pixel"}, {"Location": "newyork", "Brand": "hp"}, {"Location": "los angeles", "Brand": "h&m"}, {"Location": "sanfrancisco", "Brand": "nike"}, {"Location": "columbus", "Brand": "zara"}, {"Location": "seattle", "Brand": "fossil"}, {"Location": "seattle", "Brand": "park avenue"}, {"Location": "los vegas", "Brand": "ferrari"}, {"Location": "cincinnati", "Brand": "google pixel"}, {"Location": "tempi", "Brand": "victoria secret"}, {"Location": "sanfrancisco", "Brand": "jo malone"}, {"Location": "los angeles", "Brand": "puma"}, {"Location": "cincinnati", "Brand": "swarovski"}, {"Location": "baltimore", "Brand": "lenovo"}, {"Location": "richmond", "Brand": "nike"}, {"Location": "cincinnati", "Brand": "under armour"}, {"Location": "frankfort", "Brand": "jo malone"}, {"Location": "washington DC", "Brand": "maybelle"}, {"Location": "frankfort", "Brand": "lenovo"}, {"Location": "los angeles", "Brand": "victoria secret"}, {"Location": "newyork", "Brand": "hp"}, {"Location": "atlantic city", "Brand": "apple"}, {"Location": "cincinnati", "Brand": "victoria secret"}, {"Location": "richmond", "Brand": "google pixel"}, {"Location": "sanfrancisco", "Brand": "zara"}, {"Location": "los vegas", "Brand": "jo malone"}, {"Location": "richmond", "Brand": "ferrari"}, {"Location": "baltimore", "Brand": "puma"}, {"Location": "los angeles", "Brand": "samsung"}, {"Location": "richmond", "Brand": "swarovski"}, {"Location": "newyork", "Brand": "lenovo"}, {"Location": "washington DC", "Brand": "ferrari"}, {"Location": "baltimore", "Brand": "shein"}, {"Location": "richmond", "Brand": "adidas"}, {"Location": "newyork", "Brand": "tommy hilfiger"}, {"Location": "richmond", "Brand": "tesla"}, {"Location": "los vegas", "Brand": "ferrari"}, {"Location": "los vegas", "Brand": "park avenue"}, {"Location": "newyork", "Brand": "adidas"}, {"Location": "washington DC", "Brand": "hp"}, {"Location": "atlantic city", "Brand": "nike"}, {"Location": "seattle", "Brand": "swarovski"}, {"Location": "atlantic city", "Brand": "amazon"}, {"Location": "los vegas", "Brand": "jo malone"}, {"Location": "atlantic city", "Brand": "hp"}, {"Location": "richmond", "Brand": "hp"}, {"Location": "los vegas", "Brand": "adidas"}, {"Location": "miami", "Brand": "amazon"}, {"Location": "miami", "Brand": "h&m"}, {"Location": "cincinnati", "Brand": "victoria secret"}, {"Location": "frankfort", "Brand": "netflix"}, {"Location": "atlantic city", "Brand": "netflix"}, {"Location": "miami", "Brand": "jo malone"}, {"Location": "cincinnati", "Brand": "amazon"}, {"Location": "richmond", "Brand": "tommy hilfiger"}, {"Location": "sanfrancisco", "Brand": "amazon"}, {"Location": "richmond", "Brand": "zara"}, {"Location": "los angeles", "Brand": "samsung"}, {"Location": "richmond", "Brand": "adidas"}, {"Location": "los vegas", "Brand": "zara"}, {"Location": "detroit", "Brand": "google pixel"}, {"Location": "los angeles", "Brand": "jo malone"}, {"Location": "washington DC", "Brand": "victoria secret"}, {"Location": "newyork", "Brand": "hp"}, {"Location": "baltimore", "Brand": "nike"}, {"Location": "sanfrancisco", "Brand": "hp"}, {"Location": "sanfrancisco", "Brand": "swarovski"}, {"Location": "richmond", "Brand": "fossil"}, {"Location": "newyork", "Brand": "tommy hilfiger"}, {"Location": "frankfort", "Brand": "tommy hilfiger"}, {"Location": "miami", "Brand": "netflix"}, {"Location": "baltimore", "Brand": "jo malone"}, {"Location": "cincinnati", "Brand": "shein"}, {"Location": "detroit", "Brand": "tommy hilfiger"}, {"Location": "richmond", "Brand": "h&m"}, {"Location": "washington DC", "Brand": "maybelle"}, {"Location": "los vegas", "Brand": "ferrari"}, {"Location": "tempi", "Brand": "adidas"}, {"Location": "columbus", "Brand": "adidas"}, {"Location": "frankfort", "Brand": "h&m"}, {"Location": "miami", "Brand": "nike"}, {"Location": "frankfort", "Brand": "netflix"}, {"Location": "richmond", "Brand": "park avenue"}, {"Location": "los vegas", "Brand": "swarovski"}, {"Location": "richmond", "Brand": "tesla"}, {"Location": "sanfrancisco", "Brand": "shein"}, {"Location": "detroit", "Brand": "h&m"}, {"Location": "sanfrancisco", "Brand": "nike"}, {"Location": "newyork", "Brand": "ferrari"}, {"Location": "tempi", "Brand": "fossil"}, {"Location": "baltimore", "Brand": "adidas"}, {"Location": "cincinnati", "Brand": "h&m"}, {"Location": "atlantic city", "Brand": "oneplus"}, {"Location": "atlantic city", "Brand": "netflix"}, {"Location": "richmond", "Brand": "victoria secret"}, {"Location": "sanfrancisco", "Brand": "adidas"}, {"Location": "miami", "Brand": "tommy hilfiger"}, {"Location": "miami", "Brand": "netflix"}, {"Location": "seattle", "Brand": "rolex"}, {"Location": "los angeles", "Brand": "under armour"}, {"Location": "cincinnati", "Brand": "zara"}, {"Location": "sanfrancisco", "Brand": "victoria secret"}, {"Location": "detroit", "Brand": "amazon"}, {"Location": "los angeles", "Brand": "swarovski"}, {"Location": "sanfrancisco", "Brand": "ferrari"}, {"Location": "seattle", "Brand": "victoria secret"}, {"Location": "los angeles", "Brand": "jo malone"}, {"Location": "tempi", "Brand": "h&m"}, {"Location": "sanfrancisco", "Brand": "netflix"}, {"Location": "los angeles", "Brand": "maybelle"}, {"Location": "baltimore", "Brand": "maybelle"}, {"Location": "columbus", "Brand": "samsung"}, {"Location": "columbus", "Brand": "maybelle"}, {"Location": "washington DC", "Brand": "park avenue"}, {"Location": "richmond", "Brand": "tommy hilfiger"}, {"Location": "tempi", "Brand": "tesla"}, {"Location": "columbus", "Brand": "victoria secret"}, {"Location": "frankfort", "Brand": "google pixel"}, {"Location": "cincinnati", "Brand": "shein"}, {"Location": "detroit", "Brand": "amazon"}, {"Location": "los vegas", "Brand": "maybelle"}, {"Location": "newyork", "Brand": "lenovo"}, {"Location": "columbus", "Brand": "maybelle"}, {"Location": "tempi", "Brand": "tesla"}, {"Location": "miami", "Brand": "hp"}, {"Location": "washington DC", "Brand": "netflix"}, {"Location": "sanfrancisco", "Brand": "park avenue"}, {"Location": "baltimore", "Brand": "zara"}, {"Location": "columbus", "Brand": "rolex"}, {"Location": "los angeles", "Brand": "maybelle"}, {"Location": "cincinnati", "Brand": "fossil"}, {"Location": "frankfort", "Brand": "tesla"}, {"Location": "cincinnati", "Brand": "zara"}, {"Location": "atlantic city", "Brand": "park avenue"}, {"Location": "columbus", "Brand": "ferrari"}, {"Location": "washington DC", "Brand": "swarovski"}, {"Location": "columbus", "Brand": "swarovski"}, {"Location": "washington DC", "Brand": "under armour"}, {"Location": "richmond", "Brand": "google pixel"}, {"Location": "seattle", "Brand": "apple"}, {"Location": "washington DC", "Brand": "google pixel"}, {"Location": "los vegas", "Brand": "adidas"}, {"Location": "sanfrancisco", "Brand": "park avenue"}, {"Location": "seattle", "Brand": "park avenue"}, {"Location": "los vegas", "Brand": "nike"}, {"Location": "sanfrancisco", "Brand": "puma"}, {"Location": "los angeles", "Brand": "maybelle"}, {"Location": "newyork", "Brand": "ferrari"}, {"Location": "cincinnati", "Brand": "under armour"}, {"Location": "sanfrancisco", "Brand": "google pixel"}, {"Location": "columbus", "Brand": "h&m"}, {"Location": "sanfrancisco", "Brand": "hp"}, {"Location": "newyork", "Brand": "jo malone"}, {"Location": "detroit", "Brand": "h&m"}, {"Location": "washington DC", "Brand": "apple"}, {"Location": "detroit", "Brand": "puma"}, {"Location": "richmond", "Brand": "google pixel"}, {"Location": "sanfrancisco", "Brand": "oneplus"}, {"Location": "tempi", "Brand": "h&m"}, {"Location": "detroit", "Brand": "amazon"}, {"Location": "detroit", "Brand": "hp"}, {"Location": "sanfrancisco", "Brand": "hp"}, {"Location": "cincinnati", "Brand": "under armour"}, {"Location": "columbus", "Brand": "maybelle"}, {"Location": "sanfrancisco", "Brand": "google pixel"}, {"Location": "los vegas", "Brand": "park avenue"}, {"Location": "los angeles", "Brand": "shein"}, {"Location": "columbus", "Brand": "maybelle"}, {"Location": "cincinnati", "Brand": "swarovski"}, {"Location": "detroit", "Brand": "samsung"}, {"Location": "washington DC", "Brand": "lenovo"}, {"Location": "los angeles", "Brand": "h&m"}, {"Location": "miami", "Brand": "oneplus"}, {"Location": "seattle", "Brand": "fossil"}, {"Location": "baltimore", "Brand": "amazon"}, {"Location": "detroit", "Brand": "shein"}, {"Location": "seattle", "Brand": "park avenue"}, {"Location": "tempi", "Brand": "lenovo"}, {"Location": "frankfort", "Brand": "lenovo"}, {"Location": "tempi", "Brand": "adidas"}, {"Location": "miami", "Brand": "jo malone"}, {"Location": "newyork", "Brand": "shein"}, {"Location": "tempi", "Brand": "swarovski"}, {"Location": "baltimore", "Brand": "under armour"}, {"Location": "cincinnati", "Brand": "hp"}, {"Location": "newyork", "Brand": "nike"}, {"Location": "los angeles", "Brand": "tommy hilfiger"}, {"Location": "columbus", "Brand": "amazon"}, {"Location": "baltimore", "Brand": "amazon"}, {"Location": "atlantic city", "Brand": "tommy hilfiger"}, {"Location": "columbus", "Brand": "h&m"}, {"Location": "newyork", "Brand": "samsung"}, {"Location": "frankfort", "Brand": "netflix"}, {"Location": "miami", "Brand": "rolex"}, {"Location": "washington DC", "Brand": "puma"}, {"Location": "frankfort", "Brand": "lenovo"}, {"Location": "detroit", "Brand": "ferrari"}, {"Location": "miami", "Brand": "puma"}, {"Location": "detroit", "Brand": "ferrari"}, {"Location": "tempi", "Brand": "lenovo"}, {"Location": "cincinnati", "Brand": "tesla"}, {"Location": "tempi", "Brand": "apple"}, {"Location": "los vegas", "Brand": "h&m"}, {"Location": "columbus", "Brand": "adidas"}, {"Location": "cincinnati", "Brand": "netflix"}, {"Location": "richmond", "Brand": "victoria secret"}, {"Location": "los vegas", "Brand": "adidas"}, {"Location": "frankfort", "Brand": "jo malone"}, {"Location": "seattle", "Brand": "hp"}, {"Location": "atlantic city", "Brand": "netflix"}, {"Location": "detroit", "Brand": "tommy hilfiger"}, {"Location": "frankfort", "Brand": "zara"}, {"Location": "los vegas", "Brand": "tommy hilfiger"}, {"Location": "richmond", "Brand": "tommy hilfiger"}, {"Location": "columbus", "Brand": "lenovo"}, {"Location": "atlantic city", "Brand": "h&m"}, {"Location": "frankfort", "Brand": "samsung"}, {"Location": "seattle", "Brand": "apple"}, {"Location": "tempi", "Brand": "amazon"}, {"Location": "washington DC", "Brand": "tesla"}, {"Location": "detroit", "Brand": "under armour"}, {"Location": "atlantic city", "Brand": "victoria secret"}, {"Location": "washington DC", "Brand": "maybelle"}, {"Location": "washington DC", "Brand": "ferrari"}, {"Location": "newyork", "Brand": "park avenue"}, {"Location": "sanfrancisco", "Brand": "google pixel"}, {"Location": "newyork", "Brand": "zara"}, {"Location": "miami", "Brand": "netflix"}, {"Location": "los vegas", "Brand": "google pixel"}, {"Location": "washington DC", "Brand": "hp"}, {"Location": "frankfort", "Brand": "victoria secret"}, {"Location": "los vegas", "Brand": "tommy hilfiger"}, {"Location": "richmond", "Brand": "shein"}, {"Location": "washington DC", "Brand": "fossil"}, {"Location": "newyork", "Brand": "apple"}, {"Location": "atlantic city", "Brand": "google pixel"}, {"Location": "frankfort", "Brand": "shein"}, {"Location": "detroit", "Brand": "google pixel"}, {"Location": "sanfrancisco", "Brand": "adidas"}, {"Location": "atlantic city", "Brand": "victoria secret"}, {"Location": "los angeles", "Brand": "apple"}, {"Location": "sanfrancisco", "Brand": "h&m"}, {"Location": "los vegas", "Brand": "ferrari"}, {"Location": "los angeles", "Brand": "jo malone"}, {"Location": "washington DC", "Brand": "netflix"}, {"Location": "washington DC", "Brand": "swarovski"}, {"Location": "richmond", "Brand": "google pixel"}, {"Location": "columbus", "Brand": "under armour"}, {"Location": "columbus", "Brand": "maybelle"}, {"Location": "sanfrancisco", "Brand": "amazon"}, {"Location": "atlantic city", "Brand": "rolex"}, {"Location": "sanfrancisco", "Brand": "apple"}, {"Location": "baltimore", "Brand": "swarovski"}, {"Location": "frankfort", "Brand": "tommy hilfiger"}, {"Location": "washington DC", "Brand": "victoria secret"}, {"Location": "frankfort", "Brand": "maybelle"}, {"Location": "tempi", "Brand": "zara"}, {"Location": "miami", "Brand": "netflix"}, {"Location": "columbus", "Brand": "adidas"}, {"Location": "newyork", "Brand": "apple"}, {"Location": "baltimore", "Brand": "netflix"}, {"Location": "miami", "Brand": "google pixel"}, {"Location": "detroit", "Brand": "adidas"}, {"Location": "frankfort", "Brand": "rolex"}, {"Location": "newyork", "Brand": "park avenue"}, {"Location": "sanfrancisco", "Brand": "jo malone"}, {"Location": "los angeles", "Brand": "swarovski"}, {"Location": "sanfrancisco", "Brand": "h&m"}, {"Location": "tempi", "Brand": "fossil"}, {"Location": "cincinnati", "Brand": "h&m"}, {"Location": "newyork", "Brand": "fossil"}, {"Location": "richmond", "Brand": "fossil"}, {"Location": "richmond", "Brand": "rolex"}, {"Location": "detroit", "Brand": "tesla"}, {"Location": "baltimore", "Brand": "tommy hilfiger"}, {"Location": "cincinnati", "Brand": "amazon"}, {"Location": "los angeles", "Brand": "victoria secret"}, {"Location": "los vegas", "Brand": "amazon"}, {"Location": "frankfort", "Brand": "fossil"}, {"Location": "sanfrancisco", "Brand": "hp"}, {"Location": "columbus", "Brand": "adidas"}, {"Location": "sanfrancisco", "Brand": "adidas"}, {"Location": "cincinnati", "Brand": "hp"}, {"Location": "los vegas", "Brand": "hp"}, {"Location": "atlantic city", "Brand": "samsung"}, {"Location": "atlantic city", "Brand": "tesla"}, {"Location": "washington DC", "Brand": "shein"}, {"Location": "richmond", "Brand": "amazon"}, {"Location": "miami", "Brand": "nike"}, {"Location": "cincinnati", "Brand": "oneplus"}, {"Location": "atlantic city", "Brand": "victoria secret"}, {"Location": "sanfrancisco", "Brand": "samsung"}, {"Location": "frankfort", "Brand": "samsung"}, {"Location": "cincinnati", "Brand": "oneplus"}, {"Location": "cincinnati", "Brand": "lenovo"}, {"Location": "cincinnati", "Brand": "under armour"}, {"Location": "baltimore", "Brand": "google pixel"}, {"Location": "detroit", "Brand": "lenovo"}, {"Location": "seattle", "Brand": "netflix"}, {"Location": "tempi", "Brand": "samsung"}, {"Location": "baltimore", "Brand": "rolex"}, {"Location": "miami", "Brand": "adidas"}, {"Location": "miami", "Brand": "fossil"}, {"Location": "columbus", "Brand": "maybelle"}, {"Location": "sanfrancisco", "Brand": "shein"}, {"Location": "detroit", "Brand": "maybelle"}, {"Location": "sanfrancisco", "Brand": "tesla"}, {"Location": "columbus", "Brand": "google pixel"}, {"Location": "atlantic city", "Brand": "zara"}, {"Location": "newyork", "Brand": "hp"}, {"Location": "seattle", "Brand": "adidas"}, {"Location": "sanfrancisco", "Brand": "jo malone"}, {"Location": "richmond", "Brand": "netflix"}, {"Location": "washington DC", "Brand": "apple"}, {"Location": "los vegas", "Brand": "nike"}, {"Location": "los angeles", "Brand": "rolex"}, {"Location": "columbus", "Brand": "swarovski"}, {"Location": "columbus", "Brand": "rolex"}, {"Location": "newyork", "Brand": "victoria secret"}, {"Location": "atlantic city", "Brand": "hp"}, {"Location": "atlantic city", "Brand": "maybelle"}, {"Location": "los angeles", "Brand": "h&m"}, {"Location": "washington DC", "Brand": "zara"}, {"Location": "newyork", "Brand": "tesla"}, {"Location": "detroit", "Brand": "fossil"}, {"Location": "frankfort", "Brand": "amazon"}, {"Location": "seattle", "Brand": "apple"}, {"Location": "miami", "Brand": "fossil"}, {"Location": "newyork", "Brand": "lenovo"}]
+[
+  {
+    "Location":"columbus",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"hp"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"miami",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"zara"
+  },
+  {
+    "Location":"miami",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"hp"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"hp"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"zara"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"hp"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"hp"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"puma"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"shein"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"nike"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"miami",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"miami",
+    "Brand":"hp"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"apple"
+  },
+  {
+    "Location":"miami",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"miami",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"miami",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"hp"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"miami",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"miami",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"apple"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"nike"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"puma"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"miami",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"puma"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"hp"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"zara"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"nike"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"puma"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"miami",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"shein"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"shein"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"zara"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"puma"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"nike"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"zara"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"puma"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"hp"
+  },
+  {
+    "Location":"miami",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"nike"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"hp"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"nike"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"apple"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"apple"
+  },
+  {
+    "Location":"miami",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"apple"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"puma"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"miami",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"miami",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"zara"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"zara"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"miami",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"miami",
+    "Brand":"puma"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"zara"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"hp"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"miami",
+    "Brand":"puma"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"apple"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"shein"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"hp"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"zara"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"shein"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"apple"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"zara"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"puma"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"miami",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"puma"
+  },
+  {
+    "Location":"miami",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"hp"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"shein"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"zara"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"puma"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"nike"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"nike"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"shein"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"shein"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"hp"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"miami",
+    "Brand":"puma"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"zara"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"hp"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"puma"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"puma"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"shein"
+  },
+  {
+    "Location":"miami",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"puma"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"zara"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"apple"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"nike"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"miami",
+    "Brand":"puma"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"zara"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"nike"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"zara"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"nike"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"shein"
+  },
+  {
+    "Location":"miami",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"miami",
+    "Brand":"puma"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"nike"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"nike"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"hp"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"nike"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"zara"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"hp"
+  },
+  {
+    "Location":"miami",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"miami",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"zara"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"shein"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"nike"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"nike"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"hp"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"miami",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"zara"
+  },
+  {
+    "Location":"miami",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"shein"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"hp"
+  },
+  {
+    "Location":"miami",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"shein"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"miami",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"apple"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"zara"
+  },
+  {
+    "Location":"miami",
+    "Brand":"zara"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"hp"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"miami",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"shein"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"nike"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"nike"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"nike"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"puma"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"apple"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"hp"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"shein"
+  },
+  {
+    "Location":"miami",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"shein"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"nike"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"puma"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"zara"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"miami",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"miami",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"nike"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"miami",
+    "Brand":"puma"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"nike"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"zara"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"shein"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"puma"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"apple"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"zara"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"hp"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"puma"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"miami",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"zara"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"miami",
+    "Brand":"apple"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"miami",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"zara"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"zara"
+  },
+  {
+    "Location":"miami",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"miami",
+    "Brand":"zara"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"apple"
+  },
+  {
+    "Location":"miami",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"hp"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"puma"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"nike"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"shein"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"zara"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"zara"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"apple"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"apple"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"shein"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"shein"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"zara"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"miami",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"hp"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"puma"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"miami",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"shein"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"apple"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"apple"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"miami",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"apple"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"puma"
+  },
+  {
+    "Location":"miami",
+    "Brand":"shein"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"miami",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"zara"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"zara"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"puma"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"hp"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"puma"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"shein"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"apple"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"hp"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"puma"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"apple"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"puma"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"zara"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"miami",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"hp"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"puma"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"puma"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"zara"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"nike"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"zara"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"miami",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"nike"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"shein"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"puma"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"puma"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"zara"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"apple"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"apple"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"shein"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"nike"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"puma"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"zara"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"zara"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"miami",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"puma"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"puma"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"nike"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"miami",
+    "Brand":"hp"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"shein"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"zara"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"zara"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"zara"
+  },
+  {
+    "Location":"miami",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"shein"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"zara"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"shein"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"hp"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"shein"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"miami",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"apple"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"nike"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"miami",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"miami",
+    "Brand":"zara"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"zara"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"hp"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"apple"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"hp"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"miami",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"zara"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"puma"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"nike"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"hp"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"miami",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"nike"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"zara"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"shein"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"zara"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"miami",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"zara"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"zara"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"nike"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"hp"
+  },
+  {
+    "Location":"miami",
+    "Brand":"puma"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"nike"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"zara"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"shein"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"puma"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"hp"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"miami",
+    "Brand":"shein"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"zara"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"apple"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"apple"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"nike"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"nike"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"nike"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"apple"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"nike"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"apple"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"zara"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"zara"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"puma"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"shein"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"hp"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"miami",
+    "Brand":"puma"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"nike"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"shein"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"zara"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"shein"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"puma"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"miami",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"hp"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"miami",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"hp"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"apple"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"apple"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"puma"
+  },
+  {
+    "Location":"miami",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"shein"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"miami",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"apple"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"puma"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"shein"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"shein"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"zara"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"apple"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"zara"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"zara"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"apple"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"puma"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"shein"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"nike"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"nike"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"shein"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"miami",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"hp"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"miami",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"apple"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"shein"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"apple"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"zara"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"hp"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"apple"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"hp"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"zara"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"miami",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"miami",
+    "Brand":"shein"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"zara"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"zara"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"puma"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"puma"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"miami",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"zara"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"shein"
+  },
+  {
+    "Location":"miami",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"puma"
+  },
+  {
+    "Location":"miami",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"zara"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"nike"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"puma"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"shein"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"zara"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"hp"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"miami",
+    "Brand":"nike"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"hp"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"nike"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"zara"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"puma"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"nike"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"hp"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"apple"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"zara"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"puma"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"shein"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"hp"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"nike"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"hp"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"hp"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"miami",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"miami",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"miami",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"zara"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"zara"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"hp"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"nike"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"hp"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"miami",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"shein"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"miami",
+    "Brand":"nike"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"shein"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"nike"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"miami",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"miami",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"zara"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"shein"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"miami",
+    "Brand":"hp"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"zara"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"zara"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"apple"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"nike"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"puma"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"hp"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"apple"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"puma"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"hp"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"hp"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"shein"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"miami",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"shein"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"miami",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"shein"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"hp"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"nike"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"miami",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"puma"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"miami",
+    "Brand":"puma"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"apple"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"hp"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"zara"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"apple"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"zara"
+  },
+  {
+    "Location":"miami",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"hp"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"shein"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"apple"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"shein"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"apple"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"ferrari"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"apple"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"zara"
+  },
+  {
+    "Location":"miami",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"apple"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"miami",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"park avenue"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"tommy hilfiger"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"hp"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"hp"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"hp"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"shein"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"miami",
+    "Brand":"nike"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"oneplus"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"cincinnati",
+    "Brand":"under armour"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"lenovo"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"tempi",
+    "Brand":"samsung"
+  },
+  {
+    "Location":"baltimore",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"miami",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"miami",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"shein"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"google pixel"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"zara"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"hp"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"adidas"
+  },
+  {
+    "Location":"sanfrancisco",
+    "Brand":"jo malone"
+  },
+  {
+    "Location":"richmond",
+    "Brand":"netflix"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"apple"
+  },
+  {
+    "Location":"los vegas",
+    "Brand":"nike"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"swarovski"
+  },
+  {
+    "Location":"columbus",
+    "Brand":"rolex"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"victoria secret"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"hp"
+  },
+  {
+    "Location":"atlantic city",
+    "Brand":"maybelle"
+  },
+  {
+    "Location":"los angeles",
+    "Brand":"h&m"
+  },
+  {
+    "Location":"washington DC",
+    "Brand":"zara"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"tesla"
+  },
+  {
+    "Location":"detroit",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"frankfort",
+    "Brand":"amazon"
+  },
+  {
+    "Location":"seattle",
+    "Brand":"apple"
+  },
+  {
+    "Location":"miami",
+    "Brand":"fossil"
+  },
+  {
+    "Location":"newyork",
+    "Brand":"lenovo"
+  }
+]

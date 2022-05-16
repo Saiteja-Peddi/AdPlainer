@@ -13,19 +13,34 @@
     </mat-form-field>
       </div>
     </div>
-    <div class="form">
+    <div class="form" *ngIf="!!userName.value">
       <div class="formLabel">
         <h3>Brand name of advertisement</h3>
       </div>
       <div class="formField">
         <mat-form-field appearance="fill">
           <mat-label>Select Brand</mat-label>
-          <mat-select formControlName="userName" class="select" [disabled]="!userName.value">
+          <mat-select formControlName="brandName" class="select" (selectionChange)="brandSelected()">
             <ng-container *ngFor="let ad of adsDisplayed">
-              <mat-option *ngIf="userName.value==ad.User_Id" [value]="ad.Brand">Brand: {{ad.Brand}}, Date: {{ad.Date}}</mat-option>
+              <mat-option *ngIf="userName.value==ad.User_Id" [value]="ad" >Brand: {{ad.Brand}}, Date: {{ad.Date}}</mat-option>
             </ng-container>
           </mat-select>
         </mat-form-field>
+      </div>
+    </div>
+    <div class="form" *ngIf="showMessage">
+      <div class="formLabel">
+        <h3>Reason:</h3>
+      </div>
+      <div class="formField">
+        <ul>
+          <li *ngFor="let msg of messages">{{msg}}</li>
+        </ul>
+      </div>
+    </div>
+    <div class="form" *ngIf="showMessage">
+      <div class="formField">
+        <h4>{{jsonData | json}}</h4>
       </div>
     </div>
   </form>
